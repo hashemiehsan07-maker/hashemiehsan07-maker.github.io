@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.hashemiehsan07_maker.twa",
+        "sha256_cert_fingerprints": ["F6:0E:82:C5:9C:97:87:AF:B8:B1:12:96:A7:BD:6C:07:9A:ED:17:BC:69:20:24:2A:93:03:6A:49:D2:25:51:98"]
+      }
+    }]
